@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
+# Local inventory data
+test.db
+Inventory.xlsx
+analytics_export/
+
+# Executable - upload separately through GitHub Releases
+*.exe
+
+# Secrets and editor files
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
