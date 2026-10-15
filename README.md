@@ -9,8 +9,8 @@ Linux may need: `sudo apt install python3-tk`
 
 ## First time
 1. Click **Sign up**, choose **Admin**, and enter the admin access code
-   (default `ADMIN-2026`).
-2. Create salesperson accounts with the staff code (default `STAFF-2026`).
+   (default `ADMIN02`).
+2. Create salesperson accounts with the staff code (default `STAFF02`).
 3. Customers sign up on their own - no code needed.
 
 **Change both codes in `config.py` before you share the app.**
